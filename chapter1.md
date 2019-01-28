@@ -37,7 +37,7 @@ Type 2 + 2 in the editor in the top right.  Then select run code to ensure the a
 3 + 4
 
 # Calculate 6 + 12
-6 +12
+6+12
 ```
 
 `@solution`
