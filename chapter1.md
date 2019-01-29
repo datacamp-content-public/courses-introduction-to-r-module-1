@@ -1,6 +1,7 @@
 ---
 title: 'Basic Coding'
 description: "1. R Arithmetic\n2. R objects\n3. R packages\n4. Importing/exporting data sets"
+free_preview: true
 ---
 
 ## Example coding exercise
