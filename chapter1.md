@@ -48,4 +48,5 @@ Type 2 + 2 in the editor in the top right.  Then select run code to ensure the a
 `@sct`
 ```{r}
 ex() %>% check_expr("6+12") %>% check_result() %>% check_equal()
+success_msg("Good Job!")
 ```
